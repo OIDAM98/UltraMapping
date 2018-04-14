@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bbva_testy.iml" filepath="$PROJECT_DIR$/.idea/modules/bbva_testy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bbva_testy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bbva_testy_main.iml" group="bbva_testy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bbva_testy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bbva_testy_test.iml" group="bbva_testy" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+prestamo
+dinero
+prestamo dinero
+pago
+inicial
+pago inicial
+prestar
+dinero
+prestar dinero
+cobro
+intereses
+cobro intereses
+pago
+pago unico
+tarjeta
+credito
+tarjeta credito
+seguro vida
